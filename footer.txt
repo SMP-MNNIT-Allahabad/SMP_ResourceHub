@@ -1,0 +1,78 @@
+ <!-- Footer Section  -->
+    <div class="footer">
+
+        <div class="text-center text-white p-2">
+
+            <!-- Footer Text -->
+            <div class="container-fluid text-center text-md-left p-3">
+
+                <!-- Grid row -->
+                <div class="row">
+
+                    <!-- Grid column -->
+                    <div class="col-md-6 mt-md-0 mt-3">
+
+                        <!-- Content -->
+                        <div class="title">ABOUT US</div>
+                        <div id="typed-strings">
+                            <div>
+                                No good understanding can ever be brought without skillful notes; thus, SMP
+                                contributed as an open-source platform for archiving one of the best notes and books
+                                for all the students of MNNIT. Resource Hub aimed at providing notes to all for
+                                depth in understanding and bringing transparency to the concepts.
+                            </div>
+                        </div>
+                        <span id="typed"></span>
+
+                    </div>
+                    <!-- Grid column -->
+
+                    <hr class="clearfix w-100 d-md-none pb-3">
+
+                    <!-- Grid column -->
+                    <div class="col-md-3 mb-md-0 mb-3">
+
+                        <div class="pad">
+                            <img src="./images/ICON.jpg" height="90px">
+                        </div>
+
+                    </div>
+
+                    <!-- Grid column -->
+                    <div class="col-md-3 mb-md-0 mb-3">
+
+                        <!-- Content -->
+
+                        <div class="title">CONNECT WITH US</div>
+
+                        <div class="p-3">
+                            <a href="https://www.facebook.com/SMPMNNIT" target="_blank" style="text-decoration: none;"
+                                class="logo">
+                                <img src="./images/fb.png" style="width: 100px;" alt="">
+                            </a>
+                            <a href="https://www.instagram.com/mnnit_times/" target="_blank"
+                                style="text-decoration: none;" class="logo">
+                                <img src="./images/ig.webp" style="width: 60px;" alt="">
+                            </a>
+                            <a href="./creator_html.html" target="_blank"
+                                style="text-decoration: none; margin-left: 20px;" class="logo">
+                                <img src="./images/creator.jpg" style="width: 60px; border-radius: 10%;" alt="">
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                    <!-- Grid column -->
+
+                </div>
+                <!-- Grid row -->
+            </div>
+
+        </div>
+        <div class="text-center p-3 text-white" style="background-color: rgba(0, 0, 0, 0.843);">
+            MADE WITH &hearts; ---- TEAM SMP
+        </div>
+
+        <!-- Copyright -->
+    </div>
