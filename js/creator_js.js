@@ -231,7 +231,7 @@ const contributorsData = [
     branch: "CHE",
     rollNumber: "20218010",
     linkedin: "https://www.linkedin.com/in/mohdbilal82/",
-    image: "./images/creators/mohd_bilal.png",
+    image: "./images/creators/mohd_bilal.jpeg",
   },
   {
 
