@@ -23,6 +23,8 @@ const contributorsData = [
     linkedin: "https://www.linkedin.com/in/shradhey-pathak",
     image: "./images/creators/Shradhey Pathak.jpg",
   },
+
+  
   {
     name: "Sreemoyee Basu",
     branch: "ECE",
@@ -281,6 +283,15 @@ const contributorsData = [
     image: "./images/creators/Photo_pratyaksh.jpg",
   }
   
+  
+  {
+  name: "Ujjwal Gupta",
+  branch: "Mechanical Engineering",
+  rollNumber: "20226154",
+  linkedin: "https://www.linkedin.com/in/ujjwal-gupta25",
+  image: "./images/creators/Ujjwal Gupta.jpg",
+
+  }
   
 ];
 
