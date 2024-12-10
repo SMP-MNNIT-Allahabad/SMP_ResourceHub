@@ -265,7 +265,15 @@ const contributorsData = [
     rollNumber: "20220024",
     linkedin: "https://www.linkedin.com/in/harshit-pandey-312b78245/",
     image: "./images/creators/Harshit_Pandey_20220024.jpg",
-   }
+   },
+  {
+    name: "Divyanshu Purbey",
+    branch: "Chemical",
+    rollNumber: "20222064",
+    linkedin: "www.linkedin.com/in/divyanshu-purbey",
+    image: "./images/creators/Divyanshu_purbey.jpg",
+  }
+  
   
 ];
 
