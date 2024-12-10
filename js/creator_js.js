@@ -272,6 +272,13 @@ const contributorsData = [
     rollNumber: "20222064",
     linkedin: "www.linkedin.com/in/divyanshu-purbey",
     image: "./images/creators/Divyanshu_purbey.jpg",
+  },
+  {
+    name: "Pratyaksh Agrawal",
+    branch: "ECE",
+    rollNumber: "20224112",
+    linkedin: "https://www.linkedin.com/in/pratyaksh-agrawal-b0558a250/",
+    image: "./images/creators/Photo_pratyaksh.jpg",
   }
   
   
