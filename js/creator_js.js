@@ -278,7 +278,7 @@ const contributorsData = [
     branch: "Chemical",
     rollNumber: "20222032",
     linkedin: "www.linkedin.com/in/mishtikeshari",
-    image: "./images/creators/Mishti_Kesarwani_img.jpg",
+    image: "./images/creators/Mishti_Kesarwani_img.jpeg",
   }
   
   
