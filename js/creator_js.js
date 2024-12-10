@@ -259,7 +259,13 @@ const contributorsData = [
     linkedin: "https://www.linkedin.com/in/gouravgarg9/",
     image: "./images/creators/gouravgarg.jpeg",
     
-    }
+    },{
+    name: "Harshit Pandey",
+    branch: "Biotech",
+    rollNumber: "20220024",
+    linkedin: "https://www.linkedin.com/in/harshit-pandey-312b78245/",
+    image: "./images/creators/Harshit_Pandey_20220024.jpg",
+   }
   
 ];
 
