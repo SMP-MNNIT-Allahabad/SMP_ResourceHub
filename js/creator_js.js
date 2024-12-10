@@ -272,9 +272,15 @@ const contributorsData = [
     rollNumber: "20222064",
     linkedin: "www.linkedin.com/in/divyanshu-purbey",
     image: "./images/creators/Divyanshu_purbey.jpg",
+  },
+  {
+    name: "Abhinandan Tiwari",
+    branch: "Civil",
+    rollNumber: "20221005",
+    linkedin: "https://www.linkedin.com/in/abhinandan-tiwari-642436291",
+    image: "./images/creators/AbhiTiwari.jpeg",
   }
-  
-  
+    
 ];
 
 // Get the container to append creator cards
