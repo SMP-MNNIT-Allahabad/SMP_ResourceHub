@@ -24,21 +24,6 @@ const contributorsData = [
     image: "./images/creators/Shradhey Pathak.jpg",
   },
 
- {
-
-name: "Ujjwal Gupta",
-
-branch: "Mechanical Engineering",
-
-rollNumber: "20226154",
-
-linkedin: "https://www.linkedin.com/in/ujjwal-gupta25",
-
-image: "./images/creators/Ujjwal Gupta.jpg",
-
-
-
- }
   
   {
     name: "Sreemoyee Basu",
@@ -291,6 +276,15 @@ image: "./images/creators/Ujjwal Gupta.jpg",
     image: "./images/creators/Divyanshu_purbey.jpg",
   }
   
+  
+  {
+  name: "Ujjwal Gupta",
+  branch: "Mechanical Engineering",
+  rollNumber: "20226154",
+  linkedin: "https://www.linkedin.com/in/ujjwal-gupta25",
+  image: "./images/creators/Ujjwal Gupta.jpg",
+
+  }
   
 ];
 
