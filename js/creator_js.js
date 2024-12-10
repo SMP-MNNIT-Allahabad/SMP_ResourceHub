@@ -272,6 +272,13 @@ const contributorsData = [
     rollNumber: "20222064",
     linkedin: "www.linkedin.com/in/divyanshu-purbey",
     image: "./images/creators/Divyanshu_purbey.jpg",
+  },
+   {
+    name: "Mishti Kesarwani",
+    branch: "Chemical",
+    rollNumber: "20222032",
+    linkedin: "www.linkedin.com/in/mishtikeshari",
+    image: "./images/creators/Mishti_Kesarwani_img.jpg",
   }
   
   
