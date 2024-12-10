@@ -261,7 +261,8 @@ const contributorsData = [
     linkedin: "https://www.linkedin.com/in/gouravgarg9/",
     image: "./images/creators/gouravgarg.jpeg",
     
-    },{
+  },
+  {
     name: "Harshit Pandey",
     branch: "Biotech",
     rollNumber: "20220024",
@@ -281,9 +282,7 @@ const contributorsData = [
     rollNumber: "20224112",
     linkedin: "https://www.linkedin.com/in/pratyaksh-agrawal-b0558a250/",
     image: "./images/creators/Photo_pratyaksh.jpg",
-  }
-  
-  
+  },
   {
   name: "Ujjwal Gupta",
   branch: "Mechanical Engineering",
