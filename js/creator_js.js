@@ -270,7 +270,7 @@ const contributorsData = [
     name: "Divyanshu Purbey",
     branch: "Chemical",
     rollNumber: "20222064",
-    linkedin: "www.linkedin.com/in/divyanshu-purbey",
+    linkedin: "https://www.linkedin.com/in/divyanshu-purbey/",
     image: "./images/creators/Divyanshu_purbey.jpg",
   }
   
