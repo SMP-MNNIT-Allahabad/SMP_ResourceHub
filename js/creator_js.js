@@ -23,6 +23,8 @@ const contributorsData = [
     linkedin: "https://www.linkedin.com/in/shradhey-pathak",
     image: "./images/creators/Shradhey Pathak.jpg",
   },
+
+  
   {
     name: "Sreemoyee Basu",
     branch: "ECE",
@@ -259,7 +261,8 @@ const contributorsData = [
     linkedin: "https://www.linkedin.com/in/gouravgarg9/",
     image: "./images/creators/gouravgarg.jpeg",
     
-    },{
+  },
+  {
     name: "Harshit Pandey",
     branch: "Biotech",
     rollNumber: "20220024",
@@ -272,8 +275,43 @@ const contributorsData = [
     rollNumber: "20222064",
     linkedin: "https://www.linkedin.com/in/divyanshu-purbey/",
     image: "./images/creators/Divyanshu_purbey.jpg",
+  },
+  {
+    name: "Pratyaksh Agrawal",
+    branch: "ECE",
+    rollNumber: "20224112",
+    linkedin: "https://www.linkedin.com/in/pratyaksh-agrawal-b0558a250/",
+    image: "./images/creators/Photo_pratyaksh.jpg",
+  },
+  {
+  name: "Ujjwal Gupta",
+  branch: "Mechanical Engineering",
+  rollNumber: "20226154",
+  linkedin: "https://www.linkedin.com/in/ujjwal-gupta25",
+  image: "./images/creators/Ujjwal Gupta.jpg",
+
+  },
+  {
+    name: "Abhinandan Tiwari",
+    branch: "Civil",
+    rollNumber: "20221005",
+    linkedin: "https://www.linkedin.com/in/abhinandan-tiwari-642436291",
+    image: "./images/creators/AbhiTiwari.jpeg",
+  },
+   {
+    name: "Mishti Kesarwani",
+    branch: "Chemical",
+    rollNumber: "20222032",
+    linkedin: "www.linkedin.com/in/mishtikeshari",
+    image: "./images/creators/Mishti_Kesarwani_img.jpeg",
+  },
+  {
+    name: "Shivansh Pandey",
+    branch: "Mechanical",
+    rollNumber: "20226135",
+    linkedin: "https://www.linkedin.com/in/shivansh005?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    image: "./images/creators/shivansh_2026.jpeg",
   }
-  
   
 ];
 
