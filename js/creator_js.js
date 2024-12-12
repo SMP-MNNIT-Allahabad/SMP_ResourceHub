@@ -273,7 +273,7 @@ const contributorsData = [
     linkedin: "www.linkedin.com/in/divyanshu-purbey",
     image: "./images/creators/Divyanshu_purbey.jpg",
   },
-    {
+  {
     name: "Shivam Raj",
     branch: "PIE",
     rollNumber: "20227048",
