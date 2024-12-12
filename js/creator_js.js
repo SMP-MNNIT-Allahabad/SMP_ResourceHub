@@ -304,6 +304,13 @@ const contributorsData = [
     rollNumber: "20222032",
     linkedin: "www.linkedin.com/in/mishtikeshari",
     image: "./images/creators/Mishti_Kesarwani_img.jpeg",
+  },
+  {
+    name: "Shivansh Pandey",
+    branch: "Mechanical",
+    rollNumber: "20226135",
+    linkedin: "https://www.linkedin.com/in/shivansh005?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    image: "./images/creators/shivansh_2026.jpeg",
   }
   
 ];
