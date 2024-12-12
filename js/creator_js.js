@@ -290,6 +290,13 @@ const contributorsData = [
   linkedin: "https://www.linkedin.com/in/ujjwal-gupta25",
   image: "./images/creators/Ujjwal Gupta.jpg",
 
+  },
+  {
+    name: "Abhinandan Tiwari",
+    branch: "Civil",
+    rollNumber: "20221005",
+    linkedin: "https://www.linkedin.com/in/abhinandan-tiwari-642436291",
+    image: "./images/creators/AbhiTiwari.jpeg",
   }
   
 ];
