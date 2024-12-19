@@ -318,6 +318,13 @@ const contributorsData = [
     rollNumber: "20227048",
     linkedin: "https://www.linkedin.com/in/shivam-raj-261b72225",
     image: "./images/creators/Shivam_Raj.jpeg",
+  },
+  {
+    name: "Hannsika Ravula",
+    branch: "CSE",
+    rollNumber: "20223207",
+    linkedin: "https://www.linkedin.com/in/hannsika-ravula245/",
+    image: "./images/creators/Hannsika Ravula.jpg",
   }
   
 ];
