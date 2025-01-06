@@ -263,6 +263,15 @@ const contributorsData = [
     
   },
   {
+
+    name: "Shretank Prakash ",
+    branch: "PIE",
+    rollNumber: "20216049",
+    linkedin: "https://www.linkedin.com/in/shretank-prakash?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    image: "./images/creators/Shretank_PIE.jpeg",
+    
+  },
+  {
     name: "Harshit Pandey",
     branch: "Biotech",
     rollNumber: "20220024",
